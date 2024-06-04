@@ -1,0 +1,41 @@
+ Waffle House Menu
+
+This repository contains information about the Waffle House menu, including item descriptions, prices, and nutritional information.
+
+ Menu Categories
+- Breakfast 
+- Lunch/Dinner 
+- Sides
+- Beverages
+
+  Menu Items
+
+ Breakfast
+-  All-Star Special 
+  - Description: Two eggs, toast, hashbrowns, and your choice of bacon or sausage.
+  - Price: $11.20
+  - Nutritional Information: 1050 calories
+
+ Lunch/Dinner
+-   Waffle House Burger 
+  - Description: Classic beef burger with lettuce, tomato, and pickles.
+  - Price: $7.99
+  - Nutritional Information: 500 calories
+
+ Sides
+-  Hashbrowns  
+  - Description: Crispy shredded potatoes.
+  - Price: $2.99
+  - Nutritional Information: 300 calories
+
+  Beverages
+-  Coffee 
+  - Description: Freshly brewed coffee.
+  - Price: $1.99
+  - Nutritional Information: 5 calories
+
+ Contribution
+Feel free to contribute by adding more menu items or updating existing ones.
+
+ License
+This project is licensed under the MIT License.
